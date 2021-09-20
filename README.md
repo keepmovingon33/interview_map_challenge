@@ -5,5 +5,5 @@
 # Demo
 
 
-<img src="Gif/1.png" width="250" height="500">   <img src="Gif/1.gif" width="250" height="500">   
+<img src="Gif/1.png" width="250" height="500">   <img src="Gif/2.png" width="250" height="500">   
 
